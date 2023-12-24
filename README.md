@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I’m currently“Frontend developer from scratch to middle” in Netology**
 - 
-<h3 align="left">Connect with me:</h3> telegrem: @yasher0_0 
+<h3 align="left">Connect with me:</h3> telegrem: @yasher0_0 <a href="https://t.me/yasher0_0">
 
 <p align="left">
 </p>
