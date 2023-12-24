@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyazakharov00" alt="ilyazakharov00" /></a> </p>
 
 - 🌱 I’m currently learning **I’m currently“Frontend developer from scratch to middle” in Netology**
+- 
+<h3 align="left">Connect with me:</h3> telegrem: yasher0_0
 
 <p align="left">
 </p>
