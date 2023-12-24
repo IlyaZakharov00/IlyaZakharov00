@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **I’m currently“Frontend developer from scratch to middle” in Netology**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
